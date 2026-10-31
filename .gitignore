@@ -1,0 +1,96 @@
+# Operating systems
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editors and IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.code-workspace
+.project
+.classpath
+.settings/
+.factorypath
+.metadata/
+.history/
+*.swp
+*.swo
+*~
+
+# Logs, temporary files, and local environment configuration
+*.log
+*.tmp
+*.temp
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Java, Kotlin, Scala, and other JVM projects
+.gradle/
+.kotlin/
+build/
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+!**/gradle/wrapper/gradle-wrapper.jar
+
+# JavaScript and TypeScript
+node_modules/
+dist/
+.next/
+.nuxt/
+.output/
+.parcel-cache/
+.turbo/
+coverage/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Go, Rust, .NET, and native builds
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.pdb
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Test and tool caches
+.cache/
+.eslintcache
+.gradletasknamecache
+.nyc_output/
+TestResults/
